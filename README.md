@@ -16,7 +16,7 @@
 - Any exciting bioinformatics challenges that leverage computational and biological insights  
 
 📫 **How to reach me**  
-- Email: [mailto:zxz1583.case.edu]  
+- Email: zxz1583@case.edu
 
 😊 **Fun fact**  
 I’m passionate about road trips and love exploring diverse landscapes during my travels. My journey often inspires my research perspectives!
